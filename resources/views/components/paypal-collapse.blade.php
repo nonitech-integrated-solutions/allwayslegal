@@ -1,0 +1,1 @@
+<div class="text-center">You will be directed to the PayPal checkout page.</div>
